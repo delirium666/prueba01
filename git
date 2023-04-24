@@ -1,0 +1,55 @@
+[33mcommit 5c18a03e801adbc17d9ac057edf249419b449058[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 77f8221 06b54ef
+Author: delirium <donvmgs@gmail.com>
+Date:   Mon Apr 24 12:48:59 2023 -0400
+
+    pull 2
+
+[33mcommit 06b54ef7a0fbfe2ed60179cd5a31ee5d275921d2[m
+Author: delirium666 <131696039+delirium666@users.noreply.github.com>
+Date:   Mon Apr 24 12:48:04 2023 -0400
+
+    Update index.html
+
+[33mcommit 77f822149cfdd189197d8092eb5e811244fd20a6[m
+Merge: 2f36dbb 41e0654
+Author: delirium <donvmgs@gmail.com>
+Date:   Mon Apr 24 12:45:17 2023 -0400
+
+    Merge branch 'main' of https://github.com/delirium666/prueba01
+
+[33mcommit 2f36dbb5476b9d14509cfd8614989ac04cdf84ea[m
+Author: delirium <donvmgs@gmail.com>
+Date:   Mon Apr 24 12:43:58 2023 -0400
+
+    commit 3 local
+
+[33mcommit 41e0654a0f1f1538ef93dae3113b7c8a9307da3e[m
+Author: delirium666 <131696039+delirium666@users.noreply.github.com>
+Date:   Mon Apr 24 12:37:58 2023 -0400
+
+    Update index.html
+
+[33mcommit c2aa674b00dd3a8f3b44aaf2fe0ec4361e0ff609[m
+Author: delirium666 <131696039+delirium666@users.noreply.github.com>
+Date:   Mon Apr 24 12:37:01 2023 -0400
+
+    Create README.md
+
+[33mcommit 823b4a7d08d3549b79c311764a74e00521abd2eb[m
+Author: delirium <donvmgs@gmail.com>
+Date:   Mon Apr 24 12:22:27 2023 -0400
+
+    agregando un parrafo
+
+[33mcommit f06d60077a13198446653636c6afa99920d61b22[m
+Author: delirium <donvmgs@gmail.com>
+Date:   Mon Apr 24 12:21:11 2023 -0400
+
+    agregando titulo
+
+[33mcommit d567d82c81fe8c5d3fc6040706c942370634d942[m
+Author: delirium <donvmgs@gmail.com>
+Date:   Mon Apr 24 10:44:01 2023 -0400
+
+    primer commit
